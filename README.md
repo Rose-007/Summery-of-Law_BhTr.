@@ -1,7 +1,9 @@
 # Formula Derivation, Entanglement, and the Relationship Between True and Apparent States
 
 > **A public learning record on formula derivation, verification, observation, perspective, and entanglement**
-
+[[Concerns regarding misunderstandings](https://www.facebook.com/share/p/1HSbzLnE1N/)]() 
+ 
+![](Formular-Derivatio-OLa'y.jpg)
 ---
 
 ## Overview
